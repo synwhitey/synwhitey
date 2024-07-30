@@ -1,8 +1,4 @@
-- 👋 I'm the boogyman
-- 👀 Ooga booga
-- 🌱 wassup
-- 💞️ wassup
-- 📫 wassup
+- https://whitey.ro/
 
 <!---
 synwhitey/synwhitey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
